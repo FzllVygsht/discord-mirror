@@ -1,6 +1,6 @@
 # Token of the personal Discord account that will mirror messages.
 # Learn how to find your account token here: https://www.androidauthority.com/get-discord-token-3149920/
-token: "insert_your_token_here"
+token: "NjAxNDA4NzYzNzk4NDg3MDkx.GuLEqv._zWT2bDJst1Db8LcQy0maSBXIEddo6IaoKbJEo"
 
 # Status of the account that will mirror messages.
 # Available options: online, offline, idle, dnd.
@@ -20,12 +20,12 @@ mirrors:
       # You can find the id of a channel by enabling the Developer mode in your
       # Discord account settings and Right-Click -> Copy ID on a channel.
       channelIds:
-         - "insert_channel_id_to_mirror_here"
+         - "1190092444981805066"
       # Webhooks are used to send mirrored messages to specific channels.
       # You can create a webhook for a channel with:
       # Edit channel -> Integrations -> Webhooks -> New webook.
       webhookUrls:
-         - "insert_destionation_webhook_url_here"
+         - "https://discord.com/api/webhooks/1202307031222976564/CC-HuzsuEEAykKK6XvX0AtL0nirpI4kA8osCQGgpKahVVApgQgEYWNaiI937NwSg3QhN"
       ignoredUserIds:
          - "insert_user_id_not_to_mirror_here"
       ignoredRoleIds:
